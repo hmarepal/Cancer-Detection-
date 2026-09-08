@@ -1,0 +1,25 @@
+# Core scientific / image stack
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+scikit-learn
+tqdm
+
+# PyTorch
+torch
+torchvision
+
+# Dataset access
+kagglehub
+
+# Hugging Face / vision-language fine-tuning
+transformers>=5.5.0
+accelerate
+qwen-vl-utils
+trl
+bitsandbytes
+
+# Notebook installs Unsloth from GitHub
+unsloth @ git+https://github.com/unslothai/unsloth.git

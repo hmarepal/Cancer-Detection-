@@ -1,0 +1,4 @@
+model,train_samples,validation_samples,test_samples,epochs,test_accuracy_percent,macro_f1,weighted_f1,notes
+Custom CancerCNN,18200,3900,3900,15,88.31,0.881,0.882,Evaluated on held-out test split
+Phikon frozen backbone + linear head,18200,3900,3900,5,97.23,0.971,0.972,Evaluated on held-out test split
+Qwen2-VL-2B-Instruct + LoRA,3900,,,1,,,,Fine-tuned only; no held-out evaluation in notebook
