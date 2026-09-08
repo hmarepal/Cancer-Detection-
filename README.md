@@ -8,7 +8,7 @@ A computer-vision comparison of three approaches for classifying **26 cancer / h
 
 The project was developed and run in a Kaggle GPU notebook using the `obulisainaren/multi-cancer` dataset.
 
-> **Educational/research project only.** This repository is not a clinical diagnostic tool and should not be used for medical decisions.
+Project was created for Intro to LLMs, not a sufficient tool to diagnose fully. 
 
 ## Results
 
